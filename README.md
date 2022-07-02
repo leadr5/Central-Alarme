@@ -9,11 +9,11 @@
   <li>Um webservice desenvolvimento em C#, para comunicação entre App, Software e Arduino</li>
 </ul>
 <br>
-<h4 align="center">Tela do software de cadastro:</h4>
+<h4 align="center">Imagem do software de cadastro:</h4>
 <img src="src/1.png">
 
-<h4 align="center">Tela de login do Aplicativo:</h4>
+<h4 align="center">Imagem de login do Aplicativo:</h4>
 <img src="src/2.png">
 
-<h4 align="center">Tela do aplicativo ao receber um disparo em alguma zona:</h4>
+<h4 align="center">Imagem do aplicativo ao receber um disparo em alguma zona:</h4>
 <img src="src/3.png">
