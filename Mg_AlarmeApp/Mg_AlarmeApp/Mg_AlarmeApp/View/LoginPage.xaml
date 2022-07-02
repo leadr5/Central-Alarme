@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Mg_AlarmeApp.View.LoginPage">
+    <ScrollView>
+        <StackLayout Orientation="Vertical" VerticalOptions="Center"  HorizontalOptions="Center">
+            <Image Source="logoMG" WidthRequest="280" HeightRequest="280"/>
+            <Entry x:Name="txtEmail" Placeholder="Informe o email" TextColor="Black"/>
+            <Entry x:Name="txtSenha" Placeholder="Informe a senha" TextColor="Black" IsPassword="True"/>
+            <Button x:Name="btnLogin" Text="Login" Clicked="btnLogin_Clicked"/>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

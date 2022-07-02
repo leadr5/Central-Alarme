@@ -1,0 +1,17 @@
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\bin\Debug\netstandard2.0\Mg_AlarmeApp.deps.json
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\bin\Debug\netstandard2.0\Mg_AlarmeApp.dll
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\bin\Debug\netstandard2.0\ref\Mg_AlarmeApp.dll
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\bin\Debug\netstandard2.0\Mg_AlarmeApp.pdb
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\Mg_AlarmeApp.csproj.AssemblyReference.cache
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\Mg_AlarmeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\Mg_AlarmeApp.AssemblyInfoInputs.cache
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\Mg_AlarmeApp.AssemblyInfo.cs
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\Mg_AlarmeApp.csproj.CoreCompileInputs.cache
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\Mg_AlarmeApp.dll
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\ref\Mg_AlarmeApp.dll
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\Mg_AlarmeApp.pdb
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs
+C:\Users\Rafa\Desktop\MgAlarme\Mg_AlarmeApp\Mg_AlarmeApp\Mg_AlarmeApp\obj\Debug\netstandard2.0\View\InicialPage.xaml.g.cs
